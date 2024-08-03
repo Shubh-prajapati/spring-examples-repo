@@ -2,9 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/hello-world-spring-example" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/hello-world-spring-example/hello-world-spring-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-world-spring-example-backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-world-spring-example-backup/hello-world-spring-example" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-annotation-example" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/spring-annotation-example/hello-world-spring-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-annotation-example-backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-annotation-example-backup/hello-world-spring-example" vcs="Git" />
   </component>
 </project>
